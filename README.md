@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @qvabrik
+- 👋 Hi, my name is Keereal Zhilkov.
 - 👀 I’m interested in AI, blockchain & VR/AR.
 - 🌱 I’m currently learning С++, Linux/Bash.
 - 💞️ I’m looking to collaborate on blockchain or VR/AR developers.
