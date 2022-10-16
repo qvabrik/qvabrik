@@ -1,7 +1,6 @@
 - 👋 Hi, my name is Keereal Zhilkov.
-- 👀 I’m interested in AI, blockchain & VR/AR.
+- 👀 I’m interested in AI, blockchain, VR/AR, space systems, navigation, cybersecurity.
 - 🌱 I’m currently learning С++, Linux/Bash.
-- 💞️ I’m looking to collaborate on blockchain or VR/AR developers.
 - 📫 How to reach me: telegram = "@rytes" || email = "k.zhilkov@gmail.com"
 
 <!---
